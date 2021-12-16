@@ -1,0 +1,2 @@
+/// @description install java
+startJavaInstall();
