@@ -44,7 +44,10 @@ if (status == "welcome") {
 	"If you are trying to PLAY THE GAME with these mods, or are trying to connect to a\n" +
 	"modded server, or are unsure which option to choose, click CLIENT.\n\n" + 
 	
-	"If you are trying to CREATE A MODDED SERVER using this modpack, choose SERVER.";
+	"If you are trying to CREATE A MODDED SERVER using this modpack, choose SERVER.\n\n" +
+	
+	"If you are needing to update, but want to keep previous files and settings, choose\n" + 
+	"UPDATE CLIENT. This is not recommended unless you are debugging.";
 	draw_set_font(FNT_Default);
 	draw_set_color(c_white);
 	draw_set_halign(fa_left);

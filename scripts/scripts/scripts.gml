@@ -11,6 +11,10 @@ function startJavaInstall(){
 }
 
 function replaceClientStrings() { 
+	if (!directory_exists(programFiles + "\\Minecraft Launcher")) {
+		programFiles = string_copy(programFiles, 1, 2);
+		directory_create(programFiles + "\\Minecraft Launcher");
+	}
 	clientInstallFolder = string_replace(clientInstallFolder, "[PROGRAMFILES]", programFiles);
 	fabricClientFolder = string_replace(fabricClientFolder, "[APPDATA]", appData);
 	launcherProfileAppendText = string_replace_all(string_replace(launcherProfileAppendText, "[CLIENTINSTALLFOLDER]", string_replace_all(clientInstallFolder, "\\", "\\\\")), "'", "\"");
@@ -18,7 +22,12 @@ function replaceClientStrings() {
 }
 
 function startClientInstall(){
-	if (directory_exists(clientInstallFolder)) directory_destroy(clientInstallFolder);
+	if (directory_exists(clientInstallFolder) && !notUpdating) {
+		directory_destroy(clientInstallFolder + "\\mods");
+		directory_destroy(clientInstallFolder + "\\emotes");
+	} else if (directory_exists(clientInstallFolder) && notUpdating) {
+		directory_destroy(clientInstallFolder);
+	}
 	if (!directory_exists(clientInstallFolder)) directory_create(clientInstallFolder);
 	
 	if (file_exists(currentBatPath)) file_delete(currentBatPath);
@@ -41,14 +50,22 @@ function startClientProfileInstall(){
 		
 		file_text_close(profileFile);
 		
-		if (string_count("\"gameDir\" : \"C:\\\\Program Files (x86)\\\\Minecraft Launcher\\\\Minecraft Definitive Edition\",", profileFileText) == 0) {
-			profileFileText = string_replace(profileFileText, profileParsingToken, "    }" + launcherProfileAppendText + @"
+		//remove old profile entries
+		if (string_count("b5ed351130ba75da77ed8c33976d35a1", profileFileText) > 0) {
+			var chars = 655; //original flags
+			if (string_count(@":\\Program Files (x86)\\Minecraft Launcher\\Minecraft Definitive Edition", profileFileText) > 0 && string_count(@"-Daikars.new.flags=true", profileFileText) > 0) chars = 1016; //new flags
+			else if (string_count(@":\\Program Files\\Minecraft Launcher\\Minecraft Definitive Edition", profileFileText) > 0 && string_count(@"-Daikars.new.flags=true", profileFileText) > 0) chars = 1010; //new flags
+			else if (string_count(@":\\Minecraft Launcher\\Minecraft Definitive Edition", profileFileText) > 0) chars = 995; //new flags, new catch for non-program folder launcher installation
+			profileFileText = string_delete(profileFileText, string_last_pos("b5ed351130ba75da77ed8c33976d35a1",profileFileText)-8, chars);
+		}
+		
+		//insert new profile entry
+		profileFileText = string_replace(profileFileText, profileParsingToken, "    }" + launcherProfileAppendText + @"
   },");
   
-			profileFile = file_text_open_write(fabricClientFolder + oldLauncherProfilePath);
-			file_text_write_string(profileFile, profileFileText);
-			file_text_close(profileFile);
-		}
+		profileFile = file_text_open_write(fabricClientFolder + oldLauncherProfilePath);
+		file_text_write_string(profileFile, profileFileText);
+		file_text_close(profileFile);
 	}
 	
 	profileFileText = "";
@@ -61,14 +78,22 @@ function startClientProfileInstall(){
 		
 		file_text_close(profileFile);
 		
-		if (string_count("\"gameDir\" : \"C:\\\\Program Files (x86)\\\\Minecraft Launcher\\\\Minecraft Definitive Edition\",", profileFileText) == 0) {
-			profileFileText = string_replace(profileFileText, profileParsingToken, "    }" + launcherProfileAppendText + @"
+		//remove old profile entries
+		if (string_count("b5ed351130ba75da77ed8c33976d35a1", profileFileText) > 0) {
+			var chars = 655; //original flags
+			if (string_count(@":\\Program Files (x86)\\Minecraft Launcher\\Minecraft Definitive Edition", profileFileText) > 0 && string_count(@"-Daikars.new.flags=true", profileFileText) > 0) chars = 1016; //new flags
+			else if (string_count(@":\\Program Files\\Minecraft Launcher\\Minecraft Definitive Edition", profileFileText) > 0 && string_count(@"-Daikars.new.flags=true", profileFileText) > 0) chars = 1010; //new flags
+			else if (string_count(@":\\Minecraft Launcher\\Minecraft Definitive Edition", profileFileText) > 0) chars = 995; //new flags, new catch for non-program folder launcher installation
+			profileFileText = string_delete(profileFileText, string_last_pos("b5ed351130ba75da77ed8c33976d35a1",profileFileText)-8, chars);
+		}
+		
+		//insert new profile entry
+		profileFileText = string_replace(profileFileText, profileParsingToken, "  	}" + launcherProfileAppendText + @"
   },");
   
-			profileFile = file_text_open_write(fabricClientFolder + newLauncherProfilePath);
-			file_text_write_string(profileFile, profileFileText);
-			file_text_close(profileFile);
-		}
+		profileFile = file_text_open_write(fabricClientFolder + oldLauncherProfilePath);
+		file_text_write_string(profileFile, profileFileText);
+		file_text_close(profileFile);
 	}
 }
 

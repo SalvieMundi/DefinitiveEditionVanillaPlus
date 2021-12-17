@@ -7,11 +7,17 @@ if (status == "end") {
 	setButtons("", "", "", "", "Continue", "installChoiceStart");
 	status = "installJava";
 } else if (status == "installChoiceStart") {
-	setButtons("SERVER", "serverInstallStart", "", "", "CLIENT", "clientInstallStart");
+	setButtons("SERVER", "serverInstallStart", "UPDATE CLIENT", "clientUpdateStart", "CLIENT", "clientInstallStartNoUpdate");
 	status = "installChoice";
 } else if (status == "clientInstallStart") {
 	if (string_count("[APPDATA]", fabricClientFolder) > 0) replaceClientStrings();
 	setButtons("< BACK", "installChoiceStart", "", "", "INSTALL", "clientInstallBat");
+} else if (status == "clientInstallStartNoUpdate") {
+	notUpdating = true;
+	status = "clientInstallStart";
+} else if (status == "clientUpdateStart") {
+	notUpdating = false;
+	status = "clientInstallStart";
 } else if (status == "clientInstallBat") {
 	setButtons("", "", "", "", "", "");
 	startClientInstall();
