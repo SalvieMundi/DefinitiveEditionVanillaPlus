@@ -185,4 +185,21 @@ if (status == "welcome") {
 	draw_set_halign(fa_left);
 	draw_set_valign(fa_top);
 	draw_text(38,64,mainText);
+} else if (status == "installerUpdateAvailable") {
+	mainText = 
+	"There appears to be an update available for this installer! See below:\n\n" +
+	
+	"Current Version: " + version + "\n" +
+	"Update Version: " + currentVersion + "\n\n" +
+	
+	"It is highly recommended that you click UPDATE to be taken to the release page,\n" + 
+	"where you can download the latest ZIP file containing the newest installer!\n\n" + 
+	
+	"Alternatively, you can click CONTINUE to keep using this version.";
+	
+	draw_set_font(FNT_Default);
+	draw_set_color(c_white);
+	draw_set_halign(fa_left);
+	draw_set_valign(fa_top);
+	draw_text(38,64,mainText);
 }

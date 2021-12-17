@@ -70,4 +70,19 @@ if (status == "end") {
 } else if (status == "moreInfoServer") {
 	url_open("https://github.com/SalvieMundi/DefinitiveEditionVanillaPlus");
 	status = "serverInstallFinish";
+} else if (status == "systemInfoRelay") {
+	if (OBJ_Main.userRam <= 4 && !OBJ_Main.needsJava) {
+		setButtons("Exit", "end", "Install Java", "installJavaStart", "Continue", "installChoiceStart");
+	} else if (OBJ_Main.userRam <= 4 && OBJ_Main.needsJava) {
+		setButtons("Exit", "end", "Continue", "installChoiceStart", "Install Java", "installJavaStart");
+	} else if (OBJ_Main.userRam > 4 && !OBJ_Main.needsJava) {
+		setButtons("", "", "Install Java", "installJavaStart", "Continue", "installChoiceStart");
+	} else if (OBJ_Main.userRam > 4 && OBJ_Main.needsJava) {
+		setButtons("", "", "Continue", "installChoiceStart", "Install Java", "installJavaStart");
+	}
+
+	status = "computerGood";
+} else if (status == "fetchUpdate") {
+	url_open("https://github.com/SalvieMundi/DefinitiveEditionVanillaPlus/releases");
+	status = "end";
 }
