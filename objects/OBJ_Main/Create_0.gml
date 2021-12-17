@@ -63,8 +63,8 @@ exit";
 installClientBatContents = 
 @"cd /d '[PROGRAMDIRECTORY]'
 java -jar fabric-installer-0.8.0.jar client -dir '[FABRICCLIENTFOLDER]' -mcversion 1.17.1 -loader 0.11.7 -noprofile
-7za x ServerFiles.7z -o'[CLIENTINSTALLFOLDER]'
-7za x ClientFiles.7z -o'[CLIENTINSTALLFOLDER]'
+7za x ServerFiles.7z.001 -o'[CLIENTINSTALLFOLDER]'
+7za x ClientFiles.7z.001 -o'[CLIENTINSTALLFOLDER]'
 cd /d '[CLIENTINSTALLFOLDER]'
 del eula.txt
 del server-icon.png
@@ -74,7 +74,7 @@ exit";
 
 installServerBatContents = 
 @"cd /d '[PROGRAMDIRECTORY]'
-7za x ServerFiles.7z -o'[SERVERINSTALLFOLDER]'
+7za x ServerFiles.7z.001 -o'[SERVERINSTALLFOLDER]'
 cd /d '[GAMEDIRECTORY]'
 echo F | xcopy 'startup.bat' '[SERVERINSTALLFOLDER]\startup.bat' /C /I /R /Y
 del startup.bat
