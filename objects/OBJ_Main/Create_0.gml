@@ -17,22 +17,23 @@ newLauncherProfilePath = "\\launcher_profiles_microsoft_store.json";
 clientInstallFolder = @"[PROGRAMFILES]\Minecraft Launcher\Minecraft Definitive Edition";
 launcherProfileAppendText = 
 @",
-	'b5ed351130ba75da77ed8c33976d35a1' : {
-	  'created' : '1970-01-02T00:00:00.000Z',
-	  'gameDir' : '[CLIENTINSTALLFOLDER]',
-	  'icon' : 'Enchanting_Table',
-	  'javaArgs' : '-Xms4G -Xmx4G -XX:+UseG1GC -XX:+ParallelRefProcEnabled -XX:MaxGCPauseMillis=200 -XX:+UnlockExperimentalVMOptions -XX:+DisableExplicitGC -XX:+AlwaysPreTouch -XX:G1NewSizePercent=30 -XX:G1MaxNewSizePercent=40 -XX:G1HeapRegionSize=8M -XX:G1ReservePercent=20 -XX:G1HeapWastePercent=5 -XX:G1MixedGCCountTarget=4 -XX:InitiatingHeapOccupancyPercent=15 -XX:G1MixedGCLiveThresholdPercent=90 -XX:G1RSetUpdatingPauseTimePercent=5 -XX:SurvivorRatio=32 -XX:+PerfDisableSharedMem -XX:MaxTenuringThreshold=1 -Dusing.aikars.flags=https://mcflags.emc.gs -Daikars.new.flags=true -Dlog4j2.formatMsgNoLookups=true',
-	  'lastUsed' : '1970-01-01T00:00:00.000Z',
-	  'lastVersionId' : 'fabric-loader-0.11.7-1.17.1',
-	  'name' : 'Vanilla+ Definitive',
-	  'type' : 'custom'
-	}";
+    'b5ed351130ba75da77ed8c33976d35a1' : {
+      'created' : '1970-01-02T00:00:00.000Z',
+      'gameDir' : '[CLIENTINSTALLFOLDER]',
+      'icon' : 'Enchanting_Table',
+      'javaArgs' : '-Xms4G -Xmx4G -XX:+UseG1GC -XX:+ParallelRefProcEnabled -XX:MaxGCPauseMillis=200 -XX:+UnlockExperimentalVMOptions -XX:+DisableExplicitGC -XX:+AlwaysPreTouch -XX:G1NewSizePercent=30 -XX:G1MaxNewSizePercent=40 -XX:G1HeapRegionSize=8M -XX:G1ReservePercent=20 -XX:G1HeapWastePercent=5 -XX:G1MixedGCCountTarget=4 -XX:InitiatingHeapOccupancyPercent=15 -XX:G1MixedGCLiveThresholdPercent=90 -XX:G1RSetUpdatingPauseTimePercent=5 -XX:SurvivorRatio=32 -XX:+PerfDisableSharedMem -XX:MaxTenuringThreshold=1 -Dusing.aikars.flags=https://mcflags.emc.gs -Daikars.new.flags=true -Dlog4j2.formatMsgNoLookups=true',
+      'lastUsed' : '1970-01-02T00:00:00.000Z',
+      'lastVersionId' : 'fabric-loader-0.11.7-1.17.1',
+      'name' : 'Vanilla+ Definitive',
+      'type' : 'custom'
+    }";
 javaLink = @"https://aka.ms/download-jdk/microsoft-jdk-17.0.1.12.1-windows-x64.msi";
 serverInstallFolder = "Please SELECT a folder";
 serverLink = @"https://launcher.mojang.com/v1/objects/a16d67e5807f57fc4e550299cf20226194497dc2/server.jar";
 userRam = 0;
 serverRam = 6;
 fabricClientFolder = @"[APPDATA]\.minecraft";
+notUpdating = true;
 
 //INTERNAL VARIABLES
 currentBatPath = "temp.bat";
@@ -63,8 +64,8 @@ exit";
 installClientBatContents = 
 @"cd /d '[PROGRAMDIRECTORY]'
 java -jar fabric-installer-0.8.0.jar client -dir '[FABRICCLIENTFOLDER]' -mcversion 1.17.1 -loader 0.11.7 -noprofile
-7za x ServerFiles.7z.001 -o'[CLIENTINSTALLFOLDER]'
-7za x ClientFiles.7z.001 -o'[CLIENTINSTALLFOLDER]'
+echo s | 7za x ServerFiles.7z.001 -o'[CLIENTINSTALLFOLDER]'
+echo s | 7za x ClientFiles.7z.001 -o'[CLIENTINSTALLFOLDER]'
 cd /d '[CLIENTINSTALLFOLDER]'
 del eula.txt
 del server-icon.png
