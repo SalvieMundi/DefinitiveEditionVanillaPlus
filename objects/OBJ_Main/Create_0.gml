@@ -54,7 +54,7 @@ echo %programfiles(x86)% >> info.txt
 echo %programfiles% >> info.txt
 echo %appdata% >> info.txt
 systeminfo | findstr /C:" + "\"Total Physical Memory\"" + @" >> info.txt
-powershell -Command (Invoke-WebRequest https://github.com/SalvieMundi/DefinitiveEditionVanillaPlus/raw/installer-updates/datafiles/files/version.txt -UseBasicParsing).Content >> info.txt
+powershell -Command (Invoke-WebRequest https://raw.githubusercontent.com/SalvieMundi/DefinitiveEditionVanillaPlus/master/datafiles/files/version.txt -UseBasicParsing).Content >> info.txt
 java -version 2>&1 | find " + "\"version\"" + @" >> info.txt
 del temp.bat
 exit";
