@@ -21,12 +21,12 @@ if (!needsJava) javaVersion = string_copy(javaVersion,1,string_length(javaVersio
 file_text_close(systemInfoFile);
 if (file_exists(gameDirectory + systemInfoPath)) file_delete(gameDirectory + systemInfoPath);
 
+if (directory_exists(programFilesx64 + "\\Minecraft Launcher")) programFiles = programFilesx64;
+else programFiles = programFilesx86;
+
 if (version != currentVersion) {
 	setButtons("Exit", "end", "Update", "fetchUpdate", "Continue", "systemInfoRelay");
 	status = "installerUpdateAvailable";
 } else {
-	if (directory_exists(programFilesx64 + "\\Minecraft Launcher")) programFiles = programFilesx64;
-	else programFiles = programFilesx86;
-
 	status = "systemInfoRelay";
 }
