@@ -1,8 +1,6 @@
 # The Minecraft Vanilla+ Definitive Edition Modpack
-More information coming soon!
-# The Minecraft Vanilla+ Definitive Edition Modpack
 
-Welcome to the home page for the Minecraft Vanilla+ Definitive Edition Modpack! For more information, please see below!
+<p id="top">Welcome to the home page for the Minecraft Vanilla+ Definitive Edition Modpack! For more information, please see below!</p>
 
  1. <a href="#about">About the Modpack</a>
  2. <a href="#install">How to Install</a>
@@ -40,8 +38,4 @@ To install the modpack:
 
 3.  Run the MinecraftModInstaller.exe file. A setup wizard should guide you through the rest of the install process.
 
-<style type="text/css">
-	a {
-		text-decoration: none;
-	}
-</style>
+<a href="top">Back to Top</a>
