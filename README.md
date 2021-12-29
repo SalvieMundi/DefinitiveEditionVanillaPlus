@@ -25,7 +25,7 @@ With that in mind, some mods currently available for fabric contained features m
 
 In total, there are 369 mods included in this modpack, which will be further described in the Mods & Authors section.
 
-<a href="top">Back to Top</a>
+<a href="#top">Back to Top</a>
 
 
 
@@ -38,4 +38,4 @@ To install the modpack:
 
 3.  Run the MinecraftModInstaller.exe file. A setup wizard should guide you through the rest of the install process.
 
-<a href="top">Back to Top</a>
+<a href="#top">Back to Top</a>
