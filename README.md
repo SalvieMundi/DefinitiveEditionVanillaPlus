@@ -107,7 +107,7 @@ If you would like to support this modpack, join my Discord for it [here](https:/
 |[Architectury](https://www.curseforge.com/minecraft/mc-mods/architectury-fabric)|2.6.35|[shedaniel](https://www.curseforge.com/members/shedaniel/projects)|An intermediary api used by mod developers| [![CurseForge](https://drive.google.com/thumbnail?id=12LKG8JZKmC_HGzT_J6CDsuYw1aMGoH6L&sz=w19) ](https://www.curseforge.com/minecraft/mc-mods/architectury-fabric) [![GitHub](https://drive.google.com/thumbnail?id=12pfNVvJdbG9YBQnknaOWs33uzmWj6Ox0&sz=w24)](https://github.com/architectury/architectury) [![Discord](https://drive.google.com/thumbnail?id=1AEcvGnkkFE-Mb6dvHh3jOk70HSV3rlUD&sz=w24)](https://discord.gg/C2RdJDpRBP) [![Support](https://drive.google.com/thumbnail?id=1_f1xBcavdvn1x_jY_Ym8ayicMwQscQRq&sz=w24)](https://www.patreon.com/shedaniel)|
 
 
-*&nbsp;*Source code modified by me*
+*&nbsp;*Source code modified by me*<br />
 ** *Source code modified by me and Sir. Gameboy*
 
 <br />
