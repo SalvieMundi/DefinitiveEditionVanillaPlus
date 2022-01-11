@@ -47,11 +47,11 @@ This modpack, while very large, actually won't require much more resources than 
 |RAM|4GB|8GB|
 |HDD|1GB|4GB|
 
-<br /><br />
+<br />
 
 <h3>Minecraft Vanilla+ Definitive Edition</h3>
 
-The mods will add some strain to your CPU and RAM requirements. GPU requirements will largely be unchanged. Hard drive space will also be unchanged. The installer is roughly 250MB and will install roughly 450MB of content.
+The mods will add some strain to your CPU and RAM requirements. GPU requirements will largely be unchanged. The installer is roughly 250MB and will install roughly 450MB of content.
 
 
 | Component | Minimum Requirements | Recommended Requirements |
@@ -77,6 +77,8 @@ To install the modpack:
 
 3.  Run the MinecraftModInstaller.exe file. A setup wizard should guide you through the rest of the install process.
 
+<br />
+
 <a href="#top">Back to Top</a>
 <br /><br /><br />
 
@@ -94,7 +96,7 @@ If you would like to support this modpack, join my Discord for it [here](). I wi
 |--|--|--|--|--|
 |[Additional Additions](https://www.curseforge.com/minecraft/mc-mods/additional-additions)|2.2.0|[dqu1jjj](https://www.curseforge.com/members/dqu1jjj/followers)|Add various items to the game| [![CurseForge](https://drive.google.com/thumbnail?id=12LKG8JZKmC_HGzT_J6CDsuYw1aMGoH6L&sz=w19) ](https://www.curseforge.com/minecraft/mc-mods/additional-additions) [![GitHub](https://drive.google.com/thumbnail?id=12pfNVvJdbG9YBQnknaOWs33uzmWj6Ox0&sz=w24)](https://github.com/SalvieMundi/additionaladditions) [![Discord](https://drive.google.com/thumbnail?id=1AEcvGnkkFE-Mb6dvHh3jOk70HSV3rlUD&sz=w24)](https://www.curseforge.com/linkout?remoteUrl=https%253a%252f%252fdiscord.com%252finvite%252fg5a7ZA62t3) [![Support](https://drive.google.com/thumbnail?id=1_f1xBcavdvn1x_jY_Ym8ayicMwQscQRq&sz=w24)]()|
 
-<br /><br />
+<br />
 
 <a href="#top">Back to Top</a>
 <br /><br /><br />
