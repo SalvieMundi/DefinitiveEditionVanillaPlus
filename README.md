@@ -93,9 +93,7 @@ Below are the individual mods used by this modpack, links to their CurseForge pa
 If you would like to support this modpack, join my Discord for it [here](https://discord.gg/d2w9ud3Bke). I will not accept donations for this modpack. Please support the individual creators here if you feel so inclined.
 <br /><br />
 
-<div style="min-width: 1200px;">
-
-|Mod|Version|Author|Description|Socials|
+|<span style="display: inline-block; width:500px">Mod</span>|Version|Author|Description|Socials|
 |--|--|--|--|--|
 |[Additional Additions](https://www.curseforge.com/minecraft/mc-mods/additional-additions) *|2.2.0|[dqu1jjj](https://www.curseforge.com/members/dqu1jjj/projects)|Add various items to the game| [![CurseForge](https://drive.google.com/thumbnail?id=12LKG8JZKmC_HGzT_J6CDsuYw1aMGoH6L&sz=w19) ](https://www.curseforge.com/minecraft/mc-mods/additional-additions) [![GitHub](https://drive.google.com/thumbnail?id=12pfNVvJdbG9YBQnknaOWs33uzmWj6Ox0&sz=w24)](https://github.com/SalvieMundi/additionaladditions) [![Discord](https://drive.google.com/thumbnail?id=1AEcvGnkkFE-Mb6dvHh3jOk70HSV3rlUD&sz=w24)](https://www.curseforge.com/linkout?remoteUrl=https%253a%252f%252fdiscord.com%252finvite%252fg5a7ZA62t3) [![Support](https://drive.google.com/thumbnail?id=1_f1xBcavdvn1x_jY_Ym8ayicMwQscQRq&sz=w24) ](https://www.blockchain.com/btc/address/bc1qw0j4nzrapkra0ct0yx7yqv9j65x3dpakykc6pn)|
 |[Adorn](https://www.curseforge.com/minecraft/mc-mods/adorn)|2.2.0|[Juicebus](https://www.curseforge.com/members/juicebus/projects)|Adds furniture to the game| [![CurseForge](https://drive.google.com/thumbnail?id=12LKG8JZKmC_HGzT_J6CDsuYw1aMGoH6L&sz=w19) ](https://www.curseforge.com/minecraft/mc-mods/adorn) [![GitHub](https://drive.google.com/thumbnail?id=12pfNVvJdbG9YBQnknaOWs33uzmWj6Ox0&sz=w24)](https://github.com/Juuxel/Adorn)|
@@ -109,8 +107,6 @@ If you would like to support this modpack, join my Discord for it [here](https:/
 |[Apple Trees Revived](https://www.curseforge.com/minecraft/mc-mods/apple-trees-revived)|2.5.0|[Dav729](https://www.curseforge.com/members/dav729/projects)|Adds new apple trees, wood and a new biome| [![CurseForge](https://drive.google.com/thumbnail?id=12LKG8JZKmC_HGzT_J6CDsuYw1aMGoH6L&sz=w19) ](https://www.curseforge.com/minecraft/mc-mods/apple-trees-revived) [![GitHub](https://drive.google.com/thumbnail?id=12pfNVvJdbG9YBQnknaOWs33uzmWj6Ox0&sz=w24)](https://github.com/DavD729/AppleTreesRev) [![Discord](https://drive.google.com/thumbnail?id=1AEcvGnkkFE-Mb6dvHh3jOk70HSV3rlUD&sz=w24)](https://discord.gg/dXNZBw8)|
 |[Architectury](https://www.curseforge.com/minecraft/mc-mods/architectury-fabric)|2.6.35|[shedaniel](https://www.curseforge.com/members/shedaniel/projects)|An intermediary api used by mod developers| [![CurseForge](https://drive.google.com/thumbnail?id=12LKG8JZKmC_HGzT_J6CDsuYw1aMGoH6L&sz=w19) ](https://www.curseforge.com/minecraft/mc-mods/architectury-fabric) [![GitHub](https://drive.google.com/thumbnail?id=12pfNVvJdbG9YBQnknaOWs33uzmWj6Ox0&sz=w24)](https://github.com/architectury/architectury) [![Discord](https://drive.google.com/thumbnail?id=1AEcvGnkkFE-Mb6dvHh3jOk70HSV3rlUD&sz=w24)](https://discord.gg/C2RdJDpRBP) [![Support](https://drive.google.com/thumbnail?id=1_f1xBcavdvn1x_jY_Ym8ayicMwQscQRq&sz=w24)](https://www.patreon.com/shedaniel)|
 |[Artifacts](https://www.curseforge.com/minecraft/mc-mods/artifacts-fabric)|5.0.2|[florensie](https://www.curseforge.com/members/florensie/projects)|Adds unique, powerful, uncraftable loot items| [![CurseForge](https://drive.google.com/thumbnail?id=12LKG8JZKmC_HGzT_J6CDsuYw1aMGoH6L&sz=w19) ](https://www.curseforge.com/minecraft/mc-mods/artifacts-fabric) [![GitHub](https://drive.google.com/thumbnail?id=12pfNVvJdbG9YBQnknaOWs33uzmWj6Ox0&sz=w24)](https://github.com/florensie/artifacts-fabric)|
-
-</div>
 
 
 *&nbsp;*Source code modified by me*<br />
