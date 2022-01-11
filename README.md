@@ -25,7 +25,7 @@ This modpack was created with the following 4 philosophies in mind:
 
 With that in mind, some mods currently available for fabric contained features meeting these philosophies, while others did not and were not included. Some contained several features meeting these requirements, and several others that didn't -- those mods were further edited in their code, the sources for which can be downloaded from my forked repositories. And, of course, any mods not available for 1.17.1 were not included.
 
-In total, there are 369 mods included in this modpack, which will be further described in the Mods & Authors section.
+In total, there are 369 mods included in this modpack, which will be further described in the <a href="#mods">Mods & Authors</a> section.
 
 <a href="#top">Back to Top</a>
 <br /><br /><br />
@@ -87,10 +87,10 @@ To install the modpack:
 
 <h2 id="mods">Mods & Authors</h2>
 
-Below are the individual mods used by this modpack, links to their CurseForge pages or GitHub pages, links to their creator's Patreons or Discords, a short description of what the mod does, and what version is being used. If the mod's source code has been modified, a link to my version of the source code will also be provided.
+Below are the individual mods used by this modpack, links to their CurseForge pages or GitHub pages, links to their creator's Patreons or Discords, a short description of what the mod does, and what version is being used. If the mod's source code has been modified, a link to my version of the source code will be provided instead of the original source code.
 
 If you would like to support this modpack, join my Discord for it [here](https://discord.gg/d2w9ud3Bke). I will not accept donations for this modpack. Please support the individual creators here if you feel so inclined.
-<br />
+<br /><br />
 
 |Mod|Version|Author|Description|Socials|
 |--|--|--|--|--|
@@ -105,6 +105,7 @@ If you would like to support this modpack, join my Discord for it [here](https:/
 |[Antique Atlas](https://www.curseforge.com/minecraft/mc-mods/antique-atlas)|6.1.1|[Hunternif](https://www.curseforge.com/members/hunternif/projects)|Adds an atlas item to the game for exploration| [![CurseForge](https://drive.google.com/thumbnail?id=12LKG8JZKmC_HGzT_J6CDsuYw1aMGoH6L&sz=w19) ](https://www.curseforge.com/minecraft/mc-mods/antique-atlas) [![GitHub](https://drive.google.com/thumbnail?id=12pfNVvJdbG9YBQnknaOWs33uzmWj6Ox0&sz=w24)](https://github.com/Hunternif/AntiqueAtlas) [![Discord](https://drive.google.com/thumbnail?id=1AEcvGnkkFE-Mb6dvHh3jOk70HSV3rlUD&sz=w24)](https://discord.gg/N2H3r9y)|
 |[Apple Trees Revived](https://www.curseforge.com/minecraft/mc-mods/apple-trees-revived)|2.5.0|[Dav729](https://www.curseforge.com/members/dav729/projects)|Adds new apple trees, wood and a new biome| [![CurseForge](https://drive.google.com/thumbnail?id=12LKG8JZKmC_HGzT_J6CDsuYw1aMGoH6L&sz=w19) ](https://www.curseforge.com/minecraft/mc-mods/apple-trees-revived) [![GitHub](https://drive.google.com/thumbnail?id=12pfNVvJdbG9YBQnknaOWs33uzmWj6Ox0&sz=w24)](https://github.com/DavD729/AppleTreesRev) [![Discord](https://drive.google.com/thumbnail?id=1AEcvGnkkFE-Mb6dvHh3jOk70HSV3rlUD&sz=w24)](https://discord.gg/dXNZBw8)|
 |[Architectury](https://www.curseforge.com/minecraft/mc-mods/architectury-fabric)|2.6.35|[shedaniel](https://www.curseforge.com/members/shedaniel/projects)|An intermediary api used by mod developers| [![CurseForge](https://drive.google.com/thumbnail?id=12LKG8JZKmC_HGzT_J6CDsuYw1aMGoH6L&sz=w19) ](https://www.curseforge.com/minecraft/mc-mods/architectury-fabric) [![GitHub](https://drive.google.com/thumbnail?id=12pfNVvJdbG9YBQnknaOWs33uzmWj6Ox0&sz=w24)](https://github.com/architectury/architectury) [![Discord](https://drive.google.com/thumbnail?id=1AEcvGnkkFE-Mb6dvHh3jOk70HSV3rlUD&sz=w24)](https://discord.gg/C2RdJDpRBP) [![Support](https://drive.google.com/thumbnail?id=1_f1xBcavdvn1x_jY_Ym8ayicMwQscQRq&sz=w24)](https://www.patreon.com/shedaniel)|
+|[Artifacts](https://www.curseforge.com/minecraft/mc-mods/artifacts-fabric)|5.0.2|[florensie](https://www.curseforge.com/members/florensie/projects)|Adds unique, powerful, uncraftable loot items| [![CurseForge](https://drive.google.com/thumbnail?id=12LKG8JZKmC_HGzT_J6CDsuYw1aMGoH6L&sz=w19) ](https://www.curseforge.com/minecraft/mc-mods/artifacts-fabric) [![GitHub](https://drive.google.com/thumbnail?id=12pfNVvJdbG9YBQnknaOWs33uzmWj6Ox0&sz=w24)](https://github.com/florensie/artifacts-fabric)|
 
 
 *&nbsp;*Source code modified by me*<br />
