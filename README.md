@@ -1,8 +1,9 @@
+<p id="top">
 
+![The Minecraft Vanilla+ Definitive Edition Modpack](https://drive.google.com/thumbnail?id=15OczwHS9YBPMz14IVd0D-3K6n3Fm4_DZ&sz=w1600)
+</p><br />
 
-# The Minecraft Vanilla+ Definitive Edition Modpack
-
-<p id="top">Welcome to the home page for the Minecraft Vanilla+ Definitive Edition Modpack! For more information, please see below!</p>
+Welcome to the home page for the Minecraft Vanilla+ Definitive Edition Modpack! For more information, please see below!
 
  1. <a href="#about">About the Modpack</a>
  2.  <a href="#req">System Requirements</a>
@@ -10,6 +11,7 @@
  4. <a href="#mods">Mods & Authors</a>
  5. Frequently Asked Questions
  6. Join Our Discord!
+ <br />
 
 <h2 id="about">About the Modpack</h2>
 This fabric modpack is for Minecraft 1.17.1, and will only run on a legitimately purchased version of Minecraft Java Edition. It runs the official Mojang Caves & Cliffs Preview Datapack, and so has all the caves of 1.18, and with the addition of new biomes from various mods, has some of the cliff and mountain biomes as well. On top of all 1.17.1 features and most 1.18 features, it adds a ton of new content that feels decidedly close to vanilla Minecraft's gameplay.
@@ -97,7 +99,7 @@ If you would like to support this modpack, join my Discord for it [here](https:/
 |--|--|--|--|--|
 |[Additional Additions](https://www.curseforge.com/minecraft/mc-mods/additional-additions) *|2.2.0|[dqu1jjj](https://www.curseforge.com/members/dqu1jjj/projects)|Add various items to the game| [![CurseForge](https://drive.google.com/thumbnail?id=12LKG8JZKmC_HGzT_J6CDsuYw1aMGoH6L&sz=w19) ](https://www.curseforge.com/minecraft/mc-mods/additional-additions) [![GitHub](https://drive.google.com/thumbnail?id=12pfNVvJdbG9YBQnknaOWs33uzmWj6Ox0&sz=w24)](https://github.com/SalvieMundi/additionaladditions) [![Discord](https://drive.google.com/thumbnail?id=1AEcvGnkkFE-Mb6dvHh3jOk70HSV3rlUD&sz=w24)](https://www.curseforge.com/linkout?remoteUrl=https%253a%252f%252fdiscord.com%252finvite%252fg5a7ZA62t3) [![Support](https://drive.google.com/thumbnail?id=1_f1xBcavdvn1x_jY_Ym8ayicMwQscQRq&sz=w24) ](https://www.blockchain.com/btc/address/bc1qw0j4nzrapkra0ct0yx7yqv9j65x3dpakykc6pn)|
 |[Adorn](https://www.curseforge.com/minecraft/mc-mods/adorn)|2.2.0|[Juicebus](https://www.curseforge.com/members/juicebus/projects)|Adds furniture to the game| [![CurseForge](https://drive.google.com/thumbnail?id=12LKG8JZKmC_HGzT_J6CDsuYw1aMGoH6L&sz=w19) ](https://www.curseforge.com/minecraft/mc-mods/adorn) [![GitHub](https://drive.google.com/thumbnail?id=12pfNVvJdbG9YBQnknaOWs33uzmWj6Ox0&sz=w24)](https://github.com/Juuxel/Adorn)|
-|[Advancement Plaques](https://www.curseforge.com/minecraft/mc-mods/advancement-plaques-fabric)|1.4.1|[Grend_G](https://www.curseforge.com/members/grend_g/projects)|Turns advancement pop-ups into plaques| [![CurseForge](https://drive.google.com/thumbnail?id=12LKG8JZKmC_HGzT_J6CDsuYw1aMGoH6L&sz=w19) ](https://www.curseforge.com/minecraft/mc-mods/advancement-plaques-fabric) [![GitHub](https://drive.google.com/thumbnail?id=12pfNVvJdbG9YBQnknaOWs33uzmWj6Ox0&sz=w24)](https://github.com/AHilyard/AdvancementPlaques) [![Discord](https://drive.google.com/thumbnail?id=1AEcvGnkkFE-Mb6dvHh3jOk70HSV3rlUD&sz=w24)](https://discord.gg/S5NQjbXPnb) [![Support](https://drive.google.com/thumbnail?id=1_f1xBcavdvn1x_jY_Ym8ayicMwQscQRq&sz=w24)](https://streamlabs.com/grend_g/tip)|
+|[Advancement Plaques](https://www.curseforge.com/minecraft/mc-mods/advancement-plaques-fabric)|1.4.1|[Grend_G](https://www.curseforge.com/members/grend_g/projects)|Turns advancement pop-ups into plaques| [![CurseForge](https://drive.google.com/thumbnail?id=12LKG8JZKmC_HGzT_J6CDsuYw1aMGoH6L&sz=w19) ](https://www.curseforge.com/minecraft/mc-mods/advancement-plaques-fabric) [![GitHub](https://drive.google.com/thumbnail?id=12pfNVvJdbG9YBQnknaOWs33uzmWj6Ox0&sz=w24)](https://github.com/AHilyard/AdvancementPlaques) [![Discord](https://drive.google.com/thumbnail?id=1AEcvGnkkFE-Mb6dvHh3jOk70HSV3rlUD&sz=w24)](https://discord.gg/S5NQjbXPnb) |
 |[AdventureZ](https://www.curseforge.com/minecraft/mc-mods/adventurez) *|1.4.3|[Globox_Z](https://www.curseforge.com/members/globox_z/projects)|Adds various mobs and items to the game| [![CurseForge](https://drive.google.com/thumbnail?id=12LKG8JZKmC_HGzT_J6CDsuYw1aMGoH6L&sz=w19) ](https://www.curseforge.com/minecraft/mc-mods/adventurez) [![GitHub](https://drive.google.com/thumbnail?id=12pfNVvJdbG9YBQnknaOWs33uzmWj6Ox0&sz=w24)](https://github.com/SalvieMundi/AdventureZ) [![Discord](https://drive.google.com/thumbnail?id=1AEcvGnkkFE-Mb6dvHh3jOk70HSV3rlUD&sz=w24)](https://discord.gg/dXNZBw8) |
 |[Alaska Native Craft](https://www.curseforge.com/minecraft/mc-mods/alaska-native-craft) *|1.3.1|[whangd00dle](https://www.curseforge.com/members/whangd00dle/projects)|Adds mobs, tools and foods from Alaska Native cultures| [![CurseForge](https://drive.google.com/thumbnail?id=12LKG8JZKmC_HGzT_J6CDsuYw1aMGoH6L&sz=w19) ](https://www.curseforge.com/minecraft/mc-mods/alaska-native-craft) [![GitHub](https://drive.google.com/thumbnail?id=12pfNVvJdbG9YBQnknaOWs33uzmWj6Ox0&sz=w24)](https://github.com/SalvieMundi/alaskanativecraft)|
 |[Ambient Environment](https://www.curseforge.com/minecraft/mc-mods/ambient-environment)|6.0.22|[Jaredlll08](https://www.curseforge.com/members/jaredlll08/projects)|Adds ambient color noise to the biome colors of the game| [![CurseForge](https://drive.google.com/thumbnail?id=12LKG8JZKmC_HGzT_J6CDsuYw1aMGoH6L&sz=w19) ](https://www.curseforge.com/minecraft/mc-mods/ambient-environment) [![GitHub](https://drive.google.com/thumbnail?id=12pfNVvJdbG9YBQnknaOWs33uzmWj6Ox0&sz=w24)](https://github.com/jaredlll08/Ambiance) [![Support](https://drive.google.com/thumbnail?id=1_f1xBcavdvn1x_jY_Ym8ayicMwQscQRq&sz=w24)](https://patreon.com/jaredlll08)|
