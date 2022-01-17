@@ -6,9 +6,9 @@
 
 <div style="text-align: center !important; margin-left: auto !important; margin-right: auto !important;">
 
-| Get Support! | My Music! | My Streams! | My Videos! | Support The Modpack! | My Merch! |
-|-------------------|---------------------|----------------------|-----------------------|------------------------|----|
-| [Discord](https://discord.gg/d2w9ud3Bke) | [SoundCloud](https://soundcloud.com/user-131567346) | [Twitch](https://www.twitch.tv/SalveMundiProd) | [YouTube](https://www.youtube.com/channel/UCh1KPusyAkKuCjogZvGIUdA) | [Patreon](https://www.patreon.com/salvemundiprod) | [RedBubble](https://www.redbubble.com/people/SalveMundiPrd/shop) |
+| Get Support! | My Streams! | My Videos! | Support The Modpack! |
+|-------------------|---------------------|-----------------------|------------------------|
+| [Discord](https://discord.gg/d2w9ud3Bke) | [Twitch](https://www.twitch.tv/SalveMundiProd) | [YouTube](https://www.youtube.com/channel/UCh1KPusyAkKuCjogZvGIUdA) | [Patreon](https://www.patreon.com/salvemundiprod) |
  
 </div>
 <br /><br />
