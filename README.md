@@ -5,9 +5,13 @@
 </p><br />
 <br />
 
+<div style="text-align: center !important; margin-left: auto !important; margin-right: auto !important;">
+
 | Get Support! | My Music! | My Streams! | My Videos! | Support The Modpack! | My Merch! |
 |-------------------|---------------------|----------------------|-----------------------|------------------------|----|
-| <p style="text-align: center"> [Discord](https://discord.gg/d2w9ud3Bke) </p> | <p style="text-align: center"> [SoundCloud](https://soundcloud.com/user-131567346) </p> | <p style="text-align: center"> [Twitch](https://www.twitch.tv/SalveMundiProd) </p> | <p style="text-align: center"> [YouTube](https://www.youtube.com/channel/UCh1KPusyAkKuCjogZvGIUdA) </p> | <p style="text-align: center"> [Patreon](https://www.patreon.com/salvemundiprod) </p> | <p style="text-align: center"> [RedBubble](https://www.redbubble.com/people/SalveMundiPrd/shop) </p> |
+| [Discord](https://discord.gg/d2w9ud3Bke) | [SoundCloud](https://soundcloud.com/user-131567346) | [Twitch](https://www.twitch.tv/SalveMundiProd) | [YouTube](https://www.youtube.com/channel/UCh1KPusyAkKuCjogZvGIUdA) | [Patreon](https://www.patreon.com/salvemundiprod) | [RedBubble](https://www.redbubble.com/people/SalveMundiPrd/shop) |
+ 
+</div>
 <br /><br /><br />
 
 Welcome to the home page for the Minecraft Vanilla+ Definitive Edition Modpack! For more information, please see below!
