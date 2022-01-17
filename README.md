@@ -4,6 +4,10 @@
 ![The Minecraft Vanilla+ Definitive Edition Modpack](https://drive.google.com/thumbnail?id=15OczwHS9YBPMz14IVd0D-3K6n3Fm4_DZ&sz=w1600)
 </p><br />
 
+| Get Support! | Check Out My Music! | Check Out My Streams! | Check Out My Videos! | Support Me & This Modpack! | Want Some Drip Merch? |
+|-------------------|---------------------|----------------------|-----------------------|------------------------|
+| [Discord](https://discord.gg/d2w9ud3Bke) | [SoundCloud](https://soundcloud.com/user-131567346) | [Twitch](https://www.twitch.tv/SalveMundiProd) | [YouTube](https://www.youtube.com/channel/UCh1KPusyAkKuCjogZvGIUdA) | [Patreon](https://www.patreon.com/salvemundiprod) | [RedBubble](https://www.redbubble.com/people/SalveMundiPrd/shop) |<br /><br />
+
 Welcome to the home page for the Minecraft Vanilla+ Definitive Edition Modpack! For more information, please see below!
 
  1. <a href="#about">About the Modpack</a>
