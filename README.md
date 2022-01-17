@@ -6,11 +6,11 @@
 Welcome to the home page for the Minecraft Vanilla+ Definitive Edition Modpack! For more information, please see below!
 
  1. <a href="#about">About the Modpack</a>
- 2.  <a href="#req">System Requirements</a>
+ 2. <a href="#req">System Requirements</a>
  3. <a href="#install">How to Install</a>
  4. <a href="#mods">Mods & Authors</a>
- 5. Frequently Asked Questions
- 6. Join Our Discord!
+ 5. <a href="#faq">Frequently Asked Questions</a>
+ 6. <a href="#controls">Default Controls</a>
  <br />
 
 <h2 id="about">About the Modpack</h2>
@@ -365,7 +365,7 @@ If you would like to support this modpack, join my Discord for it [here](https:/
 |[Chests Reimagined](https://www.curseforge.com/minecraft/texture-packs/chests-reimagined)|1.2.0|[Reijvi](https://www.curseforge.com/members/reijvi/projects)|Revamps the model and texture work on chests and enderchests| [![CurseForge](https://drive.google.com/thumbnail?id=12LKG8JZKmC_HGzT_J6CDsuYw1aMGoH6L&sz=w19)](https://www.curseforge.com/minecraft/texture-packs/chests-reimagined) [![Discord](https://drive.google.com/thumbnail?id=1AEcvGnkkFE-Mb6dvHh3jOk70HSV3rlUD&sz=w24)](https://discord.gg/rstmkrGeFJ) [![Support](https://drive.google.com/thumbnail?id=1_f1xBcavdvn1x_jY_Ym8ayicMwQscQRq&sz=w24)](https://www.patreon.com/Reijvi)|
 |[Cloudier Clouds](https://www.curseforge.com/minecraft/texture-packs/cloudier-clouds)|N/A|[Shock_Micro](https://www.curseforge.com/members/shock_micro/projects)|Attempts to make clouds look fluffier and fade more smoothly into the sky| [![CurseForge](https://drive.google.com/thumbnail?id=12LKG8JZKmC_HGzT_J6CDsuYw1aMGoH6L&sz=w19)](https://www.curseforge.com/minecraft/texture-packs/cloudier-clouds) [![Discord](https://drive.google.com/thumbnail?id=1AEcvGnkkFE-Mb6dvHh3jOk70HSV3rlUD&sz=w24)](https://discord.gg/skR3zr8ww3)|
 |[Connected Logs](https://www.curseforge.com/minecraft/texture-packs/connected-logs)|N/A|[CrunchyMushroom](https://www.curseforge.com/members/crunchymushroom/projects)|Connects vanilla inner log textures together| [![CurseForge](https://drive.google.com/thumbnail?id=12LKG8JZKmC_HGzT_J6CDsuYw1aMGoH6L&sz=w19)](https://www.curseforge.com/minecraft/texture-packs/connected-logs)|
-|[Connected Textures](https://www.planetminecraft.com/texture-pack/connected-textures/) *|N/A|[FlyingTurtle215](https://www.planetminecraft.com/member/flyingturtle215/)|Adds connected textures to Minecraft (heavily modified and updated by me)|N/A|
+|[Connected Textures](https://www.planetminecraft.com/texture-pack/connected-textures/) *|N/A|[FlyingTurtle215](https://www.planetminecraft.com/member/flyingturtle215/)|Adds connected textures to Minecraft (heavily modified and updated by me)| |
 |[Connectibles](https://www.curseforge.com/minecraft/texture-packs/connectibles)|N/A|[saplistic](https://www.curseforge.com/members/saplistic/projects)|Adds connected textures to some materials that allow them to seemlessly blend together when placed next to each other, like glass, diamond, etc.| [![CurseForge](https://drive.google.com/thumbnail?id=12LKG8JZKmC_HGzT_J6CDsuYw1aMGoH6L&sz=w19)](https://www.curseforge.com/minecraft/texture-packs/connectibles)|
 |[CTM Overhaul Consistency+ Edition](https://www.curseforge.com/minecraft/texture-packs/ctm-overhaul-consistency-edition)|1.0.0|[realxokz](https://www.curseforge.com/members/realxokz/projects)|Adds Consistency+ blocks to connected textures| [![CurseForge](https://drive.google.com/thumbnail?id=12LKG8JZKmC_HGzT_J6CDsuYw1aMGoH6L&sz=w19)](https://www.curseforge.com/minecraft/texture-packs/ctm-overhaul-consistency-edition)|
 |[Dimensional Bedrock](https://www.curseforge.com/minecraft/texture-packs/dimensional-bedrock)|1.1.0|[PogginTheDwarf](https://www.curseforge.com/members/pogginthedwarf/projects)|Changes the way bedrock looks in each dimension| [![CurseForge](https://drive.google.com/thumbnail?id=12LKG8JZKmC_HGzT_J6CDsuYw1aMGoH6L&sz=w19)](https://www.curseforge.com/minecraft/texture-packs/dimensional-bedrock)|
@@ -393,3 +393,86 @@ If you would like to support this modpack, join my Discord for it [here](https:/
 
 <a href="#top">Back to Top</a>
 <br /><br /><br />
+
+
+
+
+
+<h2 id="faq">Frequently Asked Questions</h2>
+
+<h3>I put the file in my mods folder, now what?</h3>
+Now, [please read this](https://github.com/SalvieMundi/DefinitiveEditionVanillaPlus/blob/master/README.md#install), and then go sit in a corner to think about what you've done.<br /><br />
+
+<h3>I can't find the Vanilla+ Definitive Edition installation in Minecraft Launcher!</h3>
+Please use the official Mojang Minecraft Launcher, then select the version dropdown and select Vanilla+ Definitive Edition.<br /><br />
+
+<h3>I'm having an issue with this modpack!</h3>
+Please either [go here](https://github.com/SalvieMundi/DefinitiveEditionVanillaPlus/issues) and submit a ticket, or if you don't have GitHub and truly can't be bothered to create an account, [join my discord](https://discord.gg/d2w9ud3Bke) and post in the proper channel.<br /><br />
+
+<h3>How can I change the settings for [insert mod name here]?</h3>
+There is a new menu on the title screen and pause screen for mod settings. I highly suggest leaving the settings alone unless you know what they do. If you mess with a setting and it causes issues which you then report, the first thing I will ask is if you've messed with any of the mod settings. If you have, there is a very good chance I will refuse to work your ticket.<br /><br />
+
+<h3>The game is laggy, what can I do?</h3>
+If you notice that the game lags after very specific and replicable criteria (eg: it lags every time I fish in a jungle), then please [create a ticket](https://github.com/SalvieMundi/DefinitiveEditionVanillaPlus/issues) or [join my discord](https://discord.gg/d2w9ud3Bke) if you don't have a GitHub account. The game should run decently on any modern quad core CPU released in the last 3 to 5 years. However, the addition of so many mods means that even extremely beefy CPU's can struggle. Unfortunately, there is likely nothing you can do except upgrade your hardware. You can try [increasing the RAM](https://cubedhost.com/help/en/articles/1648388-how-do-i-allocate-more-memory-to-my-minecraft-launcher-client-side#h_64c91ada5f), but the garbage collection settings I use are very well optimized and aggressive, and so I don't anticipate this will help.<br /><br />
+
+<h3>I'm having an issue with [insert mod name here], should I report the issue to you or the mod's developer?</h3>
+Ideally, do both. When you open the ticket with the mod developer, please link them to this modpack and let them know that the modpack developer is a programmer by trade and willing to help debug (at this point some of the developers probably even know me). If you really must choose one or the other, report to me -- I can open a ticket with the mod developer on your behalf if necessary.<br /><br />
+
+<h3>I have a suggestion!</h3>
+Please either [go here](https://github.com/SalvieMundi/DefinitiveEditionVanillaPlus/issues) and submit a ticket, or if you don't have GitHub and truly can't be bothered to create an account, [join my discord](https://discord.gg/d2w9ud3Bke) and post in the proper channel. However, please understand that suggestions are not handled with the same level of urgency as real bugs.<br /><br />
+
+<h3>How long did it take to make this?</h3>
+Nearly 5 months of nonstop work after quitting my job. I'm not going to lie, it was grueling. But I learned a lot about programming and a lot about the Minecraft modding community. And frankly, some of these mod developers have put in a lot more time than I have.<br /><br />
+
+<h3>Why isn't this 1.18 / will you upgrade to 1.18?</h3>
+This is not 1.18 because when I started this modpack in September of 2021, 1.18 wasn't out yet. Many of these mods don't even have a 1.18 version out yet. And I will not be upgrading to 1.18 because I have already put in all the bug testing and source code editing I can handle and I just want to play with my modpack. *If* I can manage to make a living off content creation, game development and freelance tech work when 1.19 rolls around, then I *may* create a new pack at that time with the same general direction.<br /><br />
+
+<h3>How do you [insert action here]?</h3>
+Read the default controls below, search the REI menu that appears next to your inventory screen, and if you can't figure it out at that point, please search on the internet. If you have a good idea which mod has the functionality you are looking for, find it in the list above (using Ctrl+F will help immensely) and see what the mod page has to say.<br /><br />
+<a href="#top">Back to Top</a>
+<br /><br /><br />
+
+
+
+
+
+<h2 id="controls">Deafult Controls</h2>
+
+|Key|Action|Context|
+|---|------|-------|
+| WASD | Move | At Any Time |
+| Mouse | Look | At Any Time |
+| Left Mouse Button | Attack | At Any Time |
+| Right Mouse Button | Use | At Any Time |
+| Space | Jump | At Any Time |
+| Left Shift | Sneak | At Any Time |
+| Left Ctrl | Sprint | At Any Time |
+| Left Alt | Crawl | At Any Time |
+| 1-9 | Hotbar Item | At Any Time |
+| Q | Drop Item | At Any Time |
+| E | Open / Close Inventory | At Any Time |
+| B | Open Emotes | At Any Time |
+| G | Grab Item From Back Slot | At Any Time |
+| Shift + G | Grab Item From Belt Slot | At Any Time |
+| T | Open Chat | At Any Time |
+| M | Mute Your Microphone | At Any Time |
+| Caps Lock | Push To Talk | When voice chat is set to Push-to-Talk |
+| L | See Advancements | At Any Time |
+| J | Open Guild Screen | After joining a guild with a Guild Master Villager |
+| Z | Open Your Enderpouch | When you have an ender pouch in your inventory |
+| Shift + Tab | Cycle through your quiver arrows | When you have a quiver equipped |
+| Shift + B | Quiver quick access | When you have a quiver equipped |
+| V | Cinder Dash | When you have the cinder effect |
+| Tab | List Players| At Any Time |
+| Ctrl + V | Open Voice Chat Options | At Any Time |
+| Ctrl + G | Open Group Chat Options | At Any Time |
+| F2 | Take Screenshot | At Any Time |
+| F3 | Open Debug Menu | At Any Time |
+| F5 | Toggle Perspective | At Any Time |
+| F6 | Toggle WAIG Compass | At Any Time |
+| F7 | Toggle Cinematic Camera | At Any Time |<br /><br />
+
+All controls are user settable in the vanilla controls menu.<br /><br />
+
+
+<a href="#top">Back to Top</a>
