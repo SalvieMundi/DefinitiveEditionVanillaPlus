@@ -95,6 +95,8 @@ Below are the individual mods used by this modpack, links to their CurseForge pa
 If you would like to support this modpack, join my Discord for it [here](https://discord.gg/d2w9ud3Bke) or support me on my Patreon [here](https://www.patreon.com/salvemundiprod). Please also support the individual creators here if you feel so inclined.
 <br /><br />
 
+<h3>Fabric Mods</h3>
+
 |Mod|Version|Author|Description|Socials|
 |--|--|--|--|--|
 |[Additional Additions](https://www.curseforge.com/minecraft/mc-mods/additional-additions) *|2.2.0|[dqu1jjj](https://www.curseforge.com/members/dqu1jjj/projects)|Add various items to the game| [![CurseForge](https://drive.google.com/thumbnail?id=12LKG8JZKmC_HGzT_J6CDsuYw1aMGoH6L&sz=w19) ](https://www.curseforge.com/minecraft/mc-mods/additional-additions) [![GitHub](https://drive.google.com/thumbnail?id=12pfNVvJdbG9YBQnknaOWs33uzmWj6Ox0&sz=w24)](https://github.com/SalvieMundi/additionaladditions) [![Discord](https://drive.google.com/thumbnail?id=1AEcvGnkkFE-Mb6dvHh3jOk70HSV3rlUD&sz=w24)](https://www.curseforge.com/linkout?remoteUrl=https%253a%252f%252fdiscord.com%252finvite%252fg5a7ZA62t3) [![Support](https://drive.google.com/thumbnail?id=1_f1xBcavdvn1x_jY_Ym8ayicMwQscQRq&sz=w24) ](https://www.blockchain.com/btc/address/bc1qw0j4nzrapkra0ct0yx7yqv9j65x3dpakykc6pn)|
@@ -338,7 +340,21 @@ If you would like to support this modpack, join my Discord for it [here](https:/
 **** *Based on SilverGleam's [Graves Not Forgotten](https://www.curseforge.com/minecraft/mc-mods/not-forgotten); sources edited by me were taken from Syhlo's fork, which eventually became [Forgotten Graves](https://www.curseforge.com/minecraft/mc-mods/forgotten-graves)*<br />
 ***** *Not included due to being paid software, but I have purchased, tested, and included the config -- just [buy it](https://minecraftphysicsmod.com/pro) yourself and plop it in the mods folder!*
 
-<br />
+<br /><br />
+
+<h3>Data Packs</h3>
+
+|Mod|Version|Author|Description|Socials|
+|--|--|--|--|--|
+|[Better Ruined Portals](https://www.planetminecraft.com/data-pack/better-ruined-portals/)|N/A|[Hoponopono](https://www.planetminecraft.com/member/hoponopono/)|Adds bigger and more interesting nether portals to the overworld| N/A|
+|[Caves & Cliffs Preview](https://feedback.minecraft.net/hc/en-us/articles/4402614709389-Caves-Cliffs-Prototype-Data-Pack-for-Minecraft-Java-Edition)|N/A|Mojang|Adds 1.18 generation features to 1.17| N/A|
+|[Earth2Java Fix](https://www.curseforge.com/minecraft/mc-mods/earth2java-fabric?comment=133)|N/A|[JuceDoesThings](https://www.curseforge.com/members/jucedoesthings/projects)|Fixes some mobs drops in the Earth2Java mod| N/A|
+|[Fancier Mansions](https://www.planetminecraft.com/data-pack/fancier-mansions/)|1.0.0|[sixfootblue](https://www.planetminecraft.com/member/sixfootblue/)|Improves and updates the Woodland Mansion structures| N/A|
+|[End City for Better End](https://www.planetminecraft.com/data-pack/end-city-for-better-end/)|1.1.0|[IchPhilipp](https://www.planetminecraft.com/member/ichphilipp/)|Modifies the End Cities and other End structures to use Better End blocks and upgrade loot| N/A|
+|[Pigsteel Compatibility Pack](https://www.mediafire.com/file/htevsnv3ooiz1yj/compat_pack.zip/file)|N/A|Unsure|Makes pigsteel more compatible with other mods that add iron recipes| N/A|
+|[Repurposed Structures: More Villagers Compatibility Pack](https://www.curseforge.com/minecraft/texture-packs/repurposed-structures-more-villagers-datapack)|2.0.0|[telepathicgrunt](https://www.curseforge.com/members/telepathicgrunt/projects)|Adds compatibility between Repurposed Structures and More Villagers mod| [![Discord](https://drive.google.com/thumbnail?id=1AEcvGnkkFE-Mb6dvHh3jOk70HSV3rlUD&sz=w24)](https://discord.gg/SM7WBT6FGu) [![Support](https://drive.google.com/thumbnail?id=1_f1xBcavdvn1x_jY_Ym8ayicMwQscQRq&sz=w24)](https://www.patreon.com/TelepathicGrunt)|
+|[Repurposed Structures: Better Dungeons Compatibility Pack](https://www.curseforge.com/minecraft/texture-packs/repurposed-structures-better-dungeons-datapack)|N/A|[telepathicgrunt](https://www.curseforge.com/members/telepathicgrunt/projects)|Adds compatibility between Repurposed Structures and Better Dungeons mod| [![Discord](https://drive.google.com/thumbnail?id=1AEcvGnkkFE-Mb6dvHh3jOk70HSV3rlUD&sz=w24)](https://discord.gg/SM7WBT6FGu) [![Support](https://drive.google.com/thumbnail?id=1_f1xBcavdvn1x_jY_Ym8ayicMwQscQRq&sz=w24)](https://www.patreon.com/TelepathicGrunt)|
+|[Repurposed Structures: Better Strongholds Compatibility Pack](https://www.curseforge.com/minecraft/texture-packs/repurposed-structures-better-strongholds-datapack)|N/A|[telepathicgrunt](https://www.curseforge.com/members/telepathicgrunt/projects)|Adds compatibility between Repurposed Structures and Better Strongholds mod| [![Discord](https://drive.google.com/thumbnail?id=1AEcvGnkkFE-Mb6dvHh3jOk70HSV3rlUD&sz=w24)](https://discord.gg/SM7WBT6FGu) [![Support](https://drive.google.com/thumbnail?id=1_f1xBcavdvn1x_jY_Ym8ayicMwQscQRq&sz=w24)](https://www.patreon.com/TelepathicGrunt)|
 
 <a href="#top">Back to Top</a>
 <br /><br /><br />
