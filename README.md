@@ -6,9 +6,9 @@
 
 <div style="text-align: center !important; margin-left: auto !important; margin-right: auto !important;">
 
-| Get Support! | My Streams! | My Videos! | My Patreon! (Support the <a href="#mods">Mod Devs</a>, too!) |
-|-------------------|---------------------|-----------------------|------------------------|
-| [Discord](https://discord.gg/d2w9ud3Bke) | [Twitch](https://www.twitch.tv/SalveMundiProd) | [YouTube](https://www.youtube.com/channel/UCh1KPusyAkKuCjogZvGIUdA) | [Patreon](https://www.patreon.com/salvemundiprod) |
+| Get Support! | My Streams! | My Videos! | My Patreon! | Support the Mod Devs! |
+|-------------------|---------------------|-----------------------|------------------------|----|
+| [Discord](https://discord.gg/d2w9ud3Bke) | [Twitch](https://www.twitch.tv/SalveMundiProd) | [YouTube](https://www.youtube.com/channel/UCh1KPusyAkKuCjogZvGIUdA) | [Patreon](https://www.patreon.com/salvemundiprod) | <a href="#mods">Mods, Packs & Authors</a> |
  
 </div>
 <br /><br />
@@ -18,7 +18,7 @@ Welcome to the home page for the Minecraft Vanilla+ Definitive Edition Modpack! 
  1. <a href="#about">About the Modpack</a>
  2. <a href="#req">System Requirements</a>
  3. <a href="#install">How to Install</a>
- 4. <a href="#mods">Mods & Authors</a>
+ 4. <a href="#mods">Mods, Packs & Authors</a>
  5. <a href="#faq">Frequently Asked Questions</a>
  6. <a href="#controls">Default Controls</a>
  <br />
