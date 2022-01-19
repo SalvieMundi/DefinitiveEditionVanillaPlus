@@ -6,7 +6,7 @@
 
 <div style="text-align: center !important; margin-left: auto !important; margin-right: auto !important;">
 
-| Get Support! | My Streams! | My Videos! | Support The Modpack! |
+| Get Support! | My Streams! | My Videos! | My Patreon! (Support the <a href="#mods">Mod Devs</a>, too!) |
 |-------------------|---------------------|-----------------------|------------------------|
 | [Discord](https://discord.gg/d2w9ud3Bke) | [Twitch](https://www.twitch.tv/SalveMundiProd) | [YouTube](https://www.youtube.com/channel/UCh1KPusyAkKuCjogZvGIUdA) | [Patreon](https://www.patreon.com/salvemundiprod) |
  
