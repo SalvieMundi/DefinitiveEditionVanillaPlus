@@ -14,7 +14,7 @@ if (status == "welcome") {
 	draw_set_color(c_white);
 	draw_set_halign(fa_center);
 	draw_set_valign(fa_top);
-	draw_sprite(SPR_Logo,0,75,80)
+	draw_sprite_ext(SPR_Logo,0,91,66,0.12,0.12,0,c_white,1);
 	draw_text(320,280,mainText);
 } else if (status == "computerGood") {
 	mainText = 
