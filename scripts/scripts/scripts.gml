@@ -25,6 +25,7 @@ function startClientInstall(){
 	if (directory_exists(clientInstallFolder) && !notUpdating) {
 		directory_destroy(clientInstallFolder + "\\mods");
 		directory_destroy(clientInstallFolder + "\\emotes");
+		directory_destroy(clientInstallFolder + "\\saves\\world");
 	} else if (directory_exists(clientInstallFolder) && notUpdating) {
 		directory_destroy(clientInstallFolder);
 	}

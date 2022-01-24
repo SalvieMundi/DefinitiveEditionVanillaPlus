@@ -72,7 +72,10 @@ java -jar fabric-installer-0.8.0.jar client -dir '[FABRICCLIENTFOLDER]' -mcversi
 echo s | 7za x ServerFiles.7z.001 -o'[CLIENTINSTALLFOLDER]'
 echo s | 7za x ClientFiles.7z.001 -o'[CLIENTINSTALLFOLDER]'
 cd /d '[CLIENTINSTALLFOLDER]'
+mkdir saves
+move world saves
 del eula.txt
+del server.properties
 del server-icon.png
 cd /d '[GAMEDIRECTORY]'
 del temp.bat

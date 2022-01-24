@@ -78,6 +78,8 @@
     {"CopyToMask":-1,"filePath":"datafiles/files","resourceVersion":"1.0","name":"ServerFiles.7z.005","resourceType":"GMIncludedFile",},
     {"CopyToMask":-1,"filePath":"datafiles/files","resourceVersion":"1.0","name":"ClientFiles.7z.001","resourceType":"GMIncludedFile",},
     {"CopyToMask":-1,"filePath":"datafiles/files","resourceVersion":"1.0","name":"version.txt","resourceType":"GMIncludedFile",},
+    {"CopyToMask":-1,"filePath":"datafiles/files","resourceVersion":"1.0","name":"ServerFiles.7z.006","resourceType":"GMIncludedFile",},
+    {"CopyToMask":-1,"filePath":"datafiles/files","resourceVersion":"1.0","name":"ServerFiles.7z.007","resourceType":"GMIncludedFile",},
   ],
   "MetaData": {
     "IDEVersion": "2.3.7.606",
